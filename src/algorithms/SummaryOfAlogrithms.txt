@@ -1,0 +1,6 @@
+Alogrithm   Worst-case time
+quick-find  MN
+quick-union MN
+Weighted QU N+MlogN
+path compression N+MlogN
+Weighted+path  (M+N)lg*N
